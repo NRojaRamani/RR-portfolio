@@ -10,7 +10,7 @@ font-family: 'Roboto', sans-serif;
 
 .bannerBgImage{
     height: 100vh;
-    background-image:url('bgimage.webp');
+    background-image:url('image bg.jpg');
     background-size: cover;
     position: relative;
 }
